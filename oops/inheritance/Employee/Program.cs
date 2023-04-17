@@ -3,6 +3,7 @@ create two subclasses called Manager and Engineer that add attributes specific t
 as department for Manager and language for Engineer. Make sure that the Employee class has a 
 method calculate_salary() that can be overridden by the subclasses to calculate the employee's total salary.*/
 
+
 namespace Inheritance{
 //base class declaration
 class Employee{
