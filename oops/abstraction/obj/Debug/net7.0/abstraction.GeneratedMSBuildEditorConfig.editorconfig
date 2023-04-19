@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = phone_contact
-build_property.ProjectDir = c:\Users\ADMIN\Desktop\c-sharp-oops\oops\polymorphism\phone_contact\
+build_property.RootNamespace = abstraction
+build_property.ProjectDir = C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\
