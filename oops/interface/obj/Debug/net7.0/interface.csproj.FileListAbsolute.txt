@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bin\Debug\net7.0\interface.exe
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bin\Debug\net7.0\interface.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bin\Debug\net7.0\interface.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bin\Debug\net7.0\interface.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bin\Debug\net7.0\interface.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\refint\interface.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\interface.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\obj\Debug\net7.0\ref\interface.dll
