@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\bin\Debug\net7.0\Animals.exe
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\bin\Debug\net7.0\Animals.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\bin\Debug\net7.0\Animals.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\bin\Debug\net7.0\Animals.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\bin\Debug\net7.0\Animals.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\refint\Animals.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\Animals.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\Animals\obj\Debug\net7.0\ref\Animals.dll

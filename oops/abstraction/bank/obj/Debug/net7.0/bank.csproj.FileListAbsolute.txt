@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\bin\Debug\net7.0\bank.exe
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\bin\Debug\net7.0\bank.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\bin\Debug\net7.0\bank.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\bin\Debug\net7.0\bank.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\bin\Debug\net7.0\bank.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\refint\bank.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\bank.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\bank\obj\Debug\net7.0\ref\bank.dll

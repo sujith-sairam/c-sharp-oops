@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Desktop\\c#\\inheritance\\Vehicle\\Vehicle.csproj": {}
+    "C:\\Users\\ADMIN\\Desktop\\c-sharp-oops\\oops\\inheritance\\Vehicle\\Vehicle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Desktop\\c#\\inheritance\\Vehicle\\Vehicle.csproj": {
+    "C:\\Users\\ADMIN\\Desktop\\c-sharp-oops\\oops\\inheritance\\Vehicle\\Vehicle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\c#\\inheritance\\Vehicle\\Vehicle.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\c-sharp-oops\\oops\\inheritance\\Vehicle\\Vehicle.csproj",
         "projectName": "Vehicle",
-        "projectPath": "C:\\Users\\ADMIN\\Desktop\\c#\\inheritance\\Vehicle\\Vehicle.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Desktop\\c-sharp-oops\\oops\\inheritance\\Vehicle\\Vehicle.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Desktop\\c#\\inheritance\\Vehicle\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Desktop\\c-sharp-oops\\oops\\inheritance\\Vehicle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"

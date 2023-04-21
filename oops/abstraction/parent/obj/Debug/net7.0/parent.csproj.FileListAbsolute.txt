@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\bin\Debug\net7.0\parent.exe
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\bin\Debug\net7.0\parent.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\bin\Debug\net7.0\parent.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\bin\Debug\net7.0\parent.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\bin\Debug\net7.0\parent.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\refint\parent.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\parent.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\parent\obj\Debug\net7.0\ref\parent.dll

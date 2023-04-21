@@ -35,7 +35,7 @@ class Vehicle{
         this.Color = color;
     }
      public void start_engine(){
-        Console.WriteLine($"The engine has been started...\nBrand:{Make}\nModel:{Model}\nYear:{Year}\nColor:{Color}");
+        Console.WriteLine($"The engine has been started...\nBrand:{Make}\nModel:{Model}\nYear:{Year}");
     }
 }
     // Inheriting Car class from Vehicle
@@ -49,10 +49,6 @@ class Vehicle{
         this.num_doors = num_doors;
        }
 
-    new public void start_engine(){
-        Console.WriteLine($"\nCar\nThe engine has been started...\nBrand:{Make}\nModel:{Model}\nYear:{Year}\nColor:{Color}\nDoors:{num_doors}");
-    }
-}
 
 // Inheriting Truck class from Vehicle
   class Truck : Vehicle{
@@ -65,20 +61,17 @@ class Vehicle{
         this.payload_capacity = payload_capacity;
        }
 
-    new public void start_engine(){
-        Console.WriteLine($"\nTruck\nThe engine has been started...\nBrand:{Make}\nModel:{Model}\nYear:{Year}\nColor:{Color}\nDoors:{payload_capacity}");
-    }
+    
 }
 class MainClass{
     public static void Main(string[] args){
         //Creating object for car
-       Car car = new Car("Ford","r220",2022,"white",4);
-       car.start_engine();
+       
 
-       //Creating object for truck
-       Truck truck = new Truck("Eicher","wkms123",2002,"black",10);
-       truck.start_engine();
+       Vehicle v = new Vehicle("eicher","hkwdqbd",2352,"red");
+       v.start_engine();
     }
 }
 
+}
 }
