@@ -2,8 +2,10 @@
 
 namespace Calculation{
 
+    //Base class
     abstract class Shape{
 
+        //Abstract methods for calculating area
         public abstract void RectangleArea(double length,double breadth);
 
         public abstract void SquareArea(double side);
@@ -11,8 +13,10 @@ namespace Calculation{
         public abstract void CircleArea(double radius); 
     }
 
+    //Area class derived from base class
     class Area : Shape {
 
+        //abstract methods implementation
         public override void CircleArea(double radius)
         {
             double result = 3.14 * radius * radius;
