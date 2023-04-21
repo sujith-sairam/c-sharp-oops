@@ -67,7 +67,7 @@ namespace Market{
             switch(option){
                 case 1:
                     Console.WriteLine("Enter Stall details in comma separated(Stall Name,StallCost,OwnerName,Number of TV sets)");
-                    string inputGold = Console.ReadLine();
+                    string inputGold = Console.ReadLine() ?? "Entered Null";
                     string[] inputArrayGold = inputGold.Split(',');
                     string name = inputArrayGold[0];
                     int cost = int.Parse(inputArrayGold[1]);
@@ -78,7 +78,7 @@ namespace Market{
                     break;
                 case 2:
                     Console.WriteLine("Enter Stall details in comma separated(Stall Name,StallCost,OwnerName,Number of Projectors)");
-                    string inputPremium = Console.ReadLine();
+                    string inputPremium = Console.ReadLine() ?? "Entered Null";
                     string[] inputArrayPremium = inputPremium.Split(',');
                     string namePremium = inputArrayPremium[0];
                     int costPremium = int.Parse(inputArrayPremium[1]);
@@ -89,7 +89,7 @@ namespace Market{
                     break;
                 case 3:
                     Console.WriteLine("Enter Stall details in comma separated(Stall Name,StallCost,OwnerName,Number of Projectors)");
-                    string inputExecutive = Console.ReadLine();
+                    string inputExecutive = Console.ReadLine() ?? "Entered Null";
                     string[] inputArrayExecutive = inputExecutive.Split(',');
                     string nameExecutive = inputArrayExecutive[0];
                     int costExecutive = int.Parse(inputArrayExecutive[1]);
