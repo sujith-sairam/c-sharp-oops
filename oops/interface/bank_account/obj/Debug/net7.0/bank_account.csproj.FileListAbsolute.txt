@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\bin\Debug\net7.0\bank_account.exe
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\bin\Debug\net7.0\bank_account.deps.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\bin\Debug\net7.0\bank_account.runtimeconfig.json
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\bin\Debug\net7.0\bank_account.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\bin\Debug\net7.0\bank_account.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\refint\bank_account.dll
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.pdb
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\bank_account.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\obj\Debug\net7.0\ref\bank_account.dll

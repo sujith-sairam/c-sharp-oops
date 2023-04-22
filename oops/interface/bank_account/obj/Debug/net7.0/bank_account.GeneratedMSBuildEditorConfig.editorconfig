@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = percentage
-build_property.ProjectDir = c:\Users\ADMIN\Desktop\c-sharp-oops\oops\abstraction\percentage\
+build_property.RootNamespace = bank_account
+build_property.ProjectDir = C:\Users\ADMIN\Desktop\c-sharp-oops\oops\interface\bank_account\
